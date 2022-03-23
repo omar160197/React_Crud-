@@ -1,0 +1,8 @@
+[
+    { "id": 1, "name": "omar", "age": 20, "country": "egypt" },
+    { "id": 2, "name": "aomar", "age": 20, "country": "egypt" },
+    { "id": 3, "name": "bomar", "age": 20, "country": "egypt" },
+    { "id": 4, "name": "comar", "age": 20, "country": "egypt" },
+    { "id": 5, "name": "domar", "age": 20, "country": "egypt" },
+    { "id": 6, "name": "gomar", "age": 20, "country": "egypt" }
+]
